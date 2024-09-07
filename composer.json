@@ -19,5 +19,7 @@
         "php": "^8.2",
         "illuminate/support": "^9.0|^10.0|^11.0",
         "jenssegers/agent": "^2.6"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
