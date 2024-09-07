@@ -1,17 +1,17 @@
 {
-    "name": "your-vendor/geo-registry",
+    "name": "brsteamwork2021/geo-registry",
     "description": "A Laravel package for managing geo registries with device fingerprinting",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "YourVendor\\GeoRegistry\\": "src/"
+            "Brsteamwork2021\\GeoRegistry\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "YourVendor\\GeoRegistry\\GeoRegistryServiceProvider"
+                "Brsteamwork2021\\GeoRegistry\\GeoRegistryServiceProvider"
             ]
         }
     },
