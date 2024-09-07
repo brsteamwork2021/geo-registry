@@ -1,11 +1,11 @@
 <?php
 
-namespace YourVendor\GeoRegistry\Traits;
+namespace Brsteamwork2021\GeoRegistry\Traits;
 
-use Illuminate\Support\Facades\Log;
+use Brsteamwork2021\Support\Facades\Log;
 use Jenssegers\Agent\Facades\Agent;
 use Illuminate\Support\Facades\Request;
-use YourVendor\GeoRegistry\Jobs\FetchGeoRegistryJob;
+use Brsteamwork2021\GeoRegistry\Jobs\FetchGeoRegistryJob;
 use Illuminate\Support\Str;
 
 trait HasGeoRegistry
