@@ -1,6 +1,6 @@
 <?php
 
-namespace YourVendor\GeoRegistry;
+namespace Brsteamwork2021\GeoRegistry;
 
 use Illuminate\Support\ServiceProvider;
 
